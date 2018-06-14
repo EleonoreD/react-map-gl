@@ -239,6 +239,7 @@ export default class StaticMap extends PureComponent {
       overflow: 'hidden'
     };
 
+    console.log('@todo : check position of children before drawn them');
     // Note: a static map still handles clicks and hover events
     return (
       createElement('div', {
