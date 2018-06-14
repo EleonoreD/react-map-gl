@@ -1,5 +1,5 @@
 {
-  "name": "react-map-gl",
+  "name": "orbe-react-map-gl",
   "description": "A React wrapper for MapboxGL-js and overlay API.",
   "version": "3.3.0-alpha.4",
   "keywords": [
